@@ -1,2 +1,4 @@
 # python_practice
-practicing python ..mainly learning git hub..
+
+this repositiory contains my beginner python programs.
+I am learning Python and GitHub step by step.
